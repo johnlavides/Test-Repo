@@ -5,7 +5,12 @@ Getting started with Git is hard but I will help you smooth out the learning cur
 Getting started with Git is hard but I will help you smooth out the learning curve, understand Git’s mechanics, branching model, and in general be productive much quicker with the aid of a great free tool: Atlassian SourceTree.
 Getting started with Git is hard but I will help you smooth out the learning curve, understand Git’s mechanics, branching model, and in general be productive much quicker with the aid of a great free tool: Atlassian SourceTree.
 Getting started with Git is hard but I will help you smooth out the learning curve, understand Git’s mechanics, branching model, and in general be productive much quicker with the aid of a great free tool: Atlassian SourceTree.
+<<<<<<< HEAD
 Getting started with Git is hard but I will help you smooth out the learning curve, understand Git’s mechanics, branching model, and in general be productive much quicker with the aid of a great free tool: Atlassian SourceTree.
 
 
 Test New
+=======
+
+Getting started with Git is hard but I will help you smooth out the learning curve, understand Git’s mechanics, branching model, and in general be productive much quicker with the aid of a great free tool: Atlassian SourceTree.
+>>>>>>> dd4d129a6e91fd9be30d88e7be5562e2762d97ae
